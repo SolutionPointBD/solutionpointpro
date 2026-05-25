@@ -1,0 +1,8 @@
+{
+  "name": "Solution Point Pro Website",
+  "description": "Premium modern full-stack website for an AI-powered digital agency based in Bangladesh, featuring service pages, portfolio, case studies, blog and SEO features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
